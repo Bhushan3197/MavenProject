@@ -1,4 +1,1 @@
-<h1> Hello, Welcome to Oklen's Simple DevOps Project !!   </h1>
-<h2> Congratulations on completing the first part </h2>
-<h2> I hope you've enjoyed it so far </h2>
-<h2> changing from local repositery </h2>
+<h1> Hello, Welcome to Simple DevOps Project !!   </h2>
